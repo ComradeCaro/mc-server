@@ -2,6 +2,8 @@
 
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
+This is my personal minecraft server setup made with mcman. You may use this for any purposes whatsoever
+
 <!-- run 'mcman md' to update! -->
 
 <!--start:mcman-server-->
