@@ -1,21 +1,262 @@
 name = "mc-server"
-mc_version = "1.21.1"
+mc_version = "1.21"
 
 [jar]
 type = "fabric"
 loader = "latest"
 installer = "latest"
 
+# Mods
+
+## Base/Libraries
+[[mods]]
+type = "modrinth"
+id = "fabric-api"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+
+[[mods]]
+type = "modrinth"
+id = "collective"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-language-kotlin"
+
+[[mods]]
+type = "modrinth"
+id = "puzzles-lib"
+
+[[mods]]
+type = "modrinth"
+id = "forge-config-api-port"
+
+[[mods]]
+type = "modrinth"
+id = "mru"
+
+## Optimization
+[[mods]]
+type = "modrinth"
+id = "lithium"
+
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+
+[[mods]]
+type = "modrinth"
+id = "modernfix"
+
+[[mods]]
+type = "modrinth"
+id = "krypton"
+
+[[mods]]
+type = "modrinth"
+id = "debugify"
+
+[[mods]]
+type = "modrinth"
+id = "c2me-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "lmd"
+
+[[mods]]
+type = "modrinth"
+id = "noisium"
+
+[[mods]]
+type = "modrinth"
+id = "servercore"
+
+[[mods]]
+type = "modrinth"
+id = "alternate-current"
+
+[[mods]]
+type = "modrinth"
+id = "ksyxis"
+
+[[mods]]
+type = "modrinth"
+id = "faster-random"
+
+[[mods]]
+type = "modrinth"
+id = "railoptimization"
+
+[[mods]]
+type = "modrinth"
+id = "scalablelux"
+
+## Gamplay/Features
+[[mods]]
+type = "modrinth"
+id = "chunky"
+
+[[mods]]
+type = "modrinth"
+id = "leaves-be-gone"
+
+#[[mods]]
+#type = "modrinth"
+#id = "anti-xray"
+
+[[mods]]
+type = "modrinth"
+id = "banhammer"
+
+[[mods]]
+type = "modrinth"
+id = "chunkyborder"
+
+[[mods]]
+type = "modrinth"
+id = "compact-help-command"
+
+[[mods]]
+type = "modrinth"
+id = "coord-finder"
+
+[[mods]]
+type = "modrinth"
+id = "daily-dad-server"
+
+[[mods]]
+type = "modrinth"
+id = "dcintegration"
+
+[[mods]]
+type = "modrinth"
+id = "death-backup"
+
+[[mods]]
+type = "modrinth"
+id = "floodgate"
+
+[[mods]]
+type = "modrinth"
+id = "geyser"
+
+[[mods]]
+type = "modrinth"
+id = "headindex"
+
+[[mods]]
+type = "modrinth"
+id = "hurricane"
+
+[[mods]]
+type = "modrinth"
+id = "image2map"
+
+[[mods]]
+type = "modrinth"
+id = "invview"
+
+[[mods]]
+type = "modrinth"
+id = "jline4mcdsrv"
+
+[[mods]]
+type = "modrinth"
+id = "just-mob-heads"
+
+[[mods]]
+type = "modrinth"
+id = "just-player-heads"
+
+[[mods]]
+type = "modrinth"
+id = "ledger"
+
+[[mods]]
+type = "modrinth"
+id = "luckperms"
+
+[[mods]]
+type = "modrinth"
+id = "maintenancemode"
+
+[[mods]]
+type = "modrinth"
+id = "helpfulcommands"
+
+[[mods]]
+type = "modrinth"
+id = "melius-commands"
+
+[[mods]]
+type = "modrinth"
+id = "mods-command"
+
+[[mods]]
+type = "modrinth"
+id = "monsters-in-the-closet"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+
+[[mods]]
+type = "modrinth"
+id = "servux"
+
+[[mods]]
+type = "modrinth"
+id = "slime"
+
+[[mods]]
+type = "modrinth"
+id = "snow-under-trees-remastered"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+
+[[mods]]
+type = "modrinth"
+id = "stackdeobf"
+
+[[mods]]
+type = "modrinth"
+id = "tabtps"
+
+[[mods]]
+type = "modrinth"
+id = "tab-was-taken"
+
+[[mods]]
+type = "modrinth"
+id = "vanish"
+
+[[mods]]
+type = "modrinth"
+id = "viafabric"
+
+[[mods]]
+type = "modrinth"
+id = "wits"
+
+[[mods]]
+type = "modrinth"
+id = "view-distance-fix"
+
 [variables]
 SERVER_PORT = "25565"
+MOTD = "Aber!"
 
 [launcher]
 eula_args = true
-nogui = true
 
 [markdown]
 files = ["README.md"]
-auto_update = false
+auto_update = true
 
 [options]
 success_line = ""

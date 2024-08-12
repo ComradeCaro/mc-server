@@ -5,6 +5,9 @@
 <!-- run 'mcman md' to update! -->
 
 <!--start:mcman-server-->
+| Version | Type                            | Loader   |
+| ------- | ------------------------------- | -------- |
+| 1.21    | [Fabric](https://fabricmc.net/) | *Latest* |
 <!--end:mcman-server-->
 
 ## Mods
