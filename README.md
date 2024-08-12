@@ -2,7 +2,11 @@
 
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
-This is my personal minecraft server setup made with mcman. You may use this for any purposes whatsoever
+This is my personal minecraft server setup made with mcman. You may use this for any purposes whatsoever.
+
+## Running
+
+Running this with start.sh requires placing this within your home directory otherwise use the run.sh script instead. I must note however that correct configuration of mods and the like aren't guaranteed without personally setting up configs for the individual mods
 
 <!-- run 'mcman md' to update! -->
 
