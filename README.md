@@ -6,7 +6,7 @@ This is my personal minecraft server setup made with mcman. You may use this for
 
 ## Running
 
-Running this with start.sh requires placing this within your home directory otherwise use the run.sh script instead. I must note however that correct configuration of mods and the like aren't guaranteed without personally setting up configs for the individual mods
+This is only made solely for personal use. I do not offer any kind of support when setting this up and most scripts will not work without additional configuration
 
 <!-- run 'mcman md' to update! -->
 
