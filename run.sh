@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# These flags are from https://www.birdflop.com/resources/flags/ modified to work when using 'mcman build'
 fileName="server.jar"
 memory=8192
 
