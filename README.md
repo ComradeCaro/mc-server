@@ -6,7 +6,7 @@ This is my personal minecraft server setup made with mcman. You may use this for
 
 ## Running
 
-This is only made solely for personal use. I do not offer any kind of support when setting this up and most scripts will not work without additional configuration
+This is made solely for personal use. I do not offer any kind of support when setting this up and most scripts will not work without additional configuration
 
 <!-- run 'mcman md' to update! -->
 
