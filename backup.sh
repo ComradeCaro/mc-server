@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-SOURCE_DIR="/home/$USER/mc-server/server"
+SOURCE_DIR="/home/$USER/mc-server/server/world"
 BACKUP_DIR="mc:backups"
 BACKUP_COUNT=4
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
