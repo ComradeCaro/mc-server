@@ -181,6 +181,10 @@ id = "hurricane"
 type = "modrinth"
 id = "stackdeobf"
 
+[[mods]]
+type = "modrinth"
+id = "bluemap"
+
 #[[mods]]
 #type = "modrinth"
 #id = "better-stats"
