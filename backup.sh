@@ -11,7 +11,7 @@ BACKUP_NAME="backup-$DATE"
 cd $SOURCE_DIR
 cd ..
 echo "Compressing"
-tar -czvf "$BACKUP_NAME.tar.gz" "server"
+tar -czvf "$BACKUP_NAME.tar.gz" "world"
 echo "Transferring"
 rclone copy "$BACKUP_NAME.tar.gz" "$BACKUP_DIR/$BACKUP_NAME" -P
 echo "Removing local backup"
