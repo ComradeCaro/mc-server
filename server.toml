@@ -156,9 +156,9 @@ id = "spark"
 type = "modrinth"
 id = "deathlog"
 
-[[mods]]
-type = "modrinth"
-id = "impersonate"
+#[[mods]]
+#type = "modrinth"
+#id = "impersonate"
 
 ## Technical/Networking
 [[mods]]
