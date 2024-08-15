@@ -37,6 +37,10 @@ id = "forge-config-api-port"
 type = "modrinth"
 id = "mru"
 
+[[mods]]
+type = "modrinth"
+id = "tcdcommons"
+
 ## Optimization
 [[mods]]
 type = "modrinth"
@@ -95,7 +99,6 @@ type = "modrinth"
 id = "scalablelux"
 
 ## Admin tools
-
 [[mods]]
 type = "modrinth"
 id = "chunky"
@@ -148,8 +151,15 @@ id = "mods-command"
 type = "modrinth"
 id = "spark"
 
-## Technical/Networking
+[[mods]]
+type = "modrinth"
+id = "deathlog"
 
+[[mods]]
+type = "modrinth"
+id = "impersonate"
+
+## Technical/Networking
 [[mods]]
 type = "modrinth"
 id = "floodgate"
@@ -170,7 +180,47 @@ id = "hurricane"
 type = "modrinth"
 id = "stackdeobf"
 
+[[mods]]
+type = "modrinth"
+id = "better-stats"
+
+## Compatibility
+[[mods]]
+type = "modrinth"
+id = "servux"
+
+[[mods]]
+type = "modrinth"
+id = "jade"
+
 ## Gamplay/Features
+[[mods]]
+type = "modrinth"
+id = "tool-trims"
+
+[[mods]]
+type = "modrinth"
+id = "healing-campfire"
+
+[[mods]]
+type = "modrinth"
+id = "fsit"
+
+[[mods]]
+type = "modrinth"
+id = "unloaded-activity"
+
+[[mods]]
+type = "modrinth"
+id = "conduits-prevent-drowned"
+
+[[mods]]
+type = "modrinth"
+id = "anvil-restoration"
+
+[[mods]]
+type = "modrinth"
+id = "zombify"
 
 [[mods]]
 type = "modrinth"
@@ -218,10 +268,6 @@ id = "no-chat-reports"
 
 [[mods]]
 type = "modrinth"
-id = "servux"
-
-[[mods]]
-type = "modrinth"
 id = "slime"
 
 [[mods]]
@@ -253,7 +299,6 @@ id = "view-distance-fix"
 #id = "fastback"
 
 ## Worldgen
-
 [[mods]]
 type = "modrinth"
 id = "snow-under-trees-remastered"
