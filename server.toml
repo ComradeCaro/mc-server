@@ -94,18 +94,11 @@ id = "railoptimization"
 type = "modrinth"
 id = "scalablelux"
 
-## Gamplay/Features
+## Admin tools
+
 [[mods]]
 type = "modrinth"
 id = "chunky"
-
-[[mods]]
-type = "modrinth"
-id = "leaves-be-gone"
-
-#[[mods]]
-#type = "modrinth"
-#id = "anti-xray"
 
 [[mods]]
 type = "modrinth"
@@ -114,42 +107,6 @@ id = "banhammer"
 [[mods]]
 type = "modrinth"
 id = "chunkyborder"
-
-[[mods]]
-type = "modrinth"
-id = "compact-help-command"
-
-[[mods]]
-type = "modrinth"
-id = "coord-finder"
-
-[[mods]]
-type = "modrinth"
-id = "daily-dad-server"
-
-[[mods]]
-type = "modrinth"
-id = "dcintegration"
-
-[[mods]]
-type = "modrinth"
-id = "death-backup"
-
-[[mods]]
-type = "modrinth"
-id = "floodgate"
-
-[[mods]]
-type = "modrinth"
-id = "geyser"
-
-[[mods]]
-type = "modrinth"
-id = "headindex"
-
-[[mods]]
-type = "modrinth"
-id = "hurricane"
 
 [[mods]]
 type = "modrinth"
@@ -162,14 +119,6 @@ id = "invview"
 [[mods]]
 type = "modrinth"
 id = "jline4mcdsrv"
-
-[[mods]]
-type = "modrinth"
-id = "just-mob-heads"
-
-[[mods]]
-type = "modrinth"
-id = "just-player-heads"
 
 [[mods]]
 type = "modrinth"
@@ -197,6 +146,70 @@ id = "mods-command"
 
 [[mods]]
 type = "modrinth"
+id = "spark"
+
+## Technical/Networking
+
+[[mods]]
+type = "modrinth"
+id = "floodgate"
+
+[[mods]]
+type = "modrinth"
+id = "geyser"
+
+[[mods]]
+type = "modrinth"
+id = "dcintegration"
+
+[[mods]]
+type = "modrinth"
+id = "hurricane"
+
+[[mods]]
+type = "modrinth"
+id = "stackdeobf"
+
+## Gamplay/Features
+
+[[mods]]
+type = "modrinth"
+id = "leaves-be-gone"
+
+#[[mods]]
+#type = "modrinth"
+#id = "anti-xray"
+
+[[mods]]
+type = "modrinth"
+id = "compact-help-command"
+
+[[mods]]
+type = "modrinth"
+id = "coord-finder"
+
+[[mods]]
+type = "modrinth"
+id = "daily-dad-server"
+
+[[mods]]
+type = "modrinth"
+id = "death-backup"
+
+[[mods]]
+type = "modrinth"
+id = "headindex"
+
+[[mods]]
+type = "modrinth"
+id = "just-mob-heads"
+
+[[mods]]
+type = "modrinth"
+id = "just-player-heads"
+
+[[mods]]
+type = "modrinth"
 id = "monsters-in-the-closet"
 
 [[mods]]
@@ -210,18 +223,6 @@ id = "servux"
 [[mods]]
 type = "modrinth"
 id = "slime"
-
-[[mods]]
-type = "modrinth"
-id = "snow-under-trees-remastered"
-
-[[mods]]
-type = "modrinth"
-id = "spark"
-
-[[mods]]
-type = "modrinth"
-id = "stackdeobf"
 
 [[mods]]
 type = "modrinth"
@@ -250,6 +251,12 @@ id = "view-distance-fix"
 #[[mods]]
 #type = "modrinth"
 #id = "fastback"
+
+## Worldgen
+
+[[mods]]
+type = "modrinth"
+id = "snow-under-trees-remastered"
 
 [variables]
 SERVER_PORT = "25565"
