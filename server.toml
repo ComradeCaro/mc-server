@@ -36,10 +36,11 @@ id = "forge-config-api-port"
 [[mods]]
 type = "modrinth"
 id = "mru"
+version = "0.4.5+1.21"
 
 [[mods]]
 type = "modrinth"
-id = "tcdcommons"
+id = "owo-lib"
 
 ## Optimization
 [[mods]]
@@ -180,9 +181,9 @@ id = "hurricane"
 type = "modrinth"
 id = "stackdeobf"
 
-[[mods]]
-type = "modrinth"
-id = "better-stats"
+#[[mods]]
+#type = "modrinth"
+#id = "better-stats"
 
 ## Compatibility
 [[mods]]
@@ -194,10 +195,6 @@ type = "modrinth"
 id = "jade"
 
 ## Gamplay/Features
-[[mods]]
-type = "modrinth"
-id = "tool-trims"
-
 [[mods]]
 type = "modrinth"
 id = "healing-campfire"
