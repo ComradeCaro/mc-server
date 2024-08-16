@@ -142,10 +142,6 @@ id = "helpfulcommands"
 
 [[mods]]
 type = "modrinth"
-id = "melius-commands"
-
-[[mods]]
-type = "modrinth"
 id = "mods-command"
 
 [[mods]]
@@ -155,10 +151,6 @@ id = "spark"
 [[mods]]
 type = "modrinth"
 id = "deathlog"
-
-#[[mods]]
-#type = "modrinth"
-#id = "impersonate"
 
 ## Technical/Networking
 [[mods]]
@@ -185,10 +177,6 @@ id = "stackdeobf"
 type = "modrinth"
 id = "bluemap"
 
-#[[mods]]
-#type = "modrinth"
-#id = "better-stats"
-
 ## Compatibility
 [[mods]]
 type = "modrinth"
@@ -206,10 +194,6 @@ id = "healing-campfire"
 [[mods]]
 type = "modrinth"
 id = "fsit"
-
-[[mods]]
-type = "modrinth"
-id = "unloaded-activity"
 
 [[mods]]
 type = "modrinth"
@@ -294,10 +278,6 @@ id = "wits"
 [[mods]]
 type = "modrinth"
 id = "view-distance-fix"
-
-#[[mods]]
-#type = "modrinth"
-#id = "fastback"
 
 ## Worldgen
 [[mods]]
