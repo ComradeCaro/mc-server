@@ -36,7 +36,6 @@ id = "forge-config-api-port"
 [[mods]]
 type = "modrinth"
 id = "mru"
-version = "0.4.5+1.21"
 
 [[mods]]
 type = "modrinth"
