@@ -192,10 +192,6 @@ id = "healing-campfire"
 
 [[mods]]
 type = "modrinth"
-id = "fsit"
-
-[[mods]]
-type = "modrinth"
 id = "conduits-prevent-drowned"
 
 [[mods]]
