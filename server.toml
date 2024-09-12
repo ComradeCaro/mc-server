@@ -206,9 +206,9 @@ id = "zombify"
 type = "modrinth"
 id = "leaves-be-gone"
 
-#[[mods]]
-#type = "modrinth"
-#id = "anti-xray"
+[[mods]]
+type = "modrinth"
+id = "anti-xray"
 
 [[mods]]
 type = "modrinth"
@@ -220,15 +220,7 @@ id = "coord-finder"
 
 [[mods]]
 type = "modrinth"
-id = "daily-dad-server"
-
-[[mods]]
-type = "modrinth"
 id = "death-backup"
-
-[[mods]]
-type = "modrinth"
-id = "headindex"
 
 [[mods]]
 type = "modrinth"
