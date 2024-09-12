@@ -41,6 +41,10 @@ id = "mru"
 type = "modrinth"
 id = "owo-lib"
 
+[[mods]]
+type = "modrinth"
+id = "craterlib"
+
 ## Optimization
 [[mods]]
 type = "modrinth"
