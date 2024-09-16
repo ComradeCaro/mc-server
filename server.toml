@@ -113,10 +113,6 @@ id = "banhammer"
 
 [[mods]]
 type = "modrinth"
-id = "chunkyborder"
-
-[[mods]]
-type = "modrinth"
 id = "image2map"
 
 [[mods]]
@@ -246,9 +242,10 @@ id = "no-chat-reports"
 type = "modrinth"
 id = "tabtps"
 
-[[mods]]
-type = "modrinth"
-id = "tab-was-taken"
+# Trying to find alternative
+#[[mods]]
+#type = "modrinth"
+#id = "tab-was-taken"
 
 [[mods]]
 type = "modrinth"
