@@ -242,11 +242,6 @@ id = "no-chat-reports"
 type = "modrinth"
 id = "tabtps"
 
-# Trying to find alternative
-#[[mods]]
-#type = "modrinth"
-#id = "tab-was-taken"
-
 [[mods]]
 type = "modrinth"
 id = "vanish"
