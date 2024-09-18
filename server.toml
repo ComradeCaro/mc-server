@@ -123,6 +123,7 @@ id = "chunky"
 type = "modrinth"
 id = "banhammer"
 
+# Might be removed
 [[mods]]
 type = "modrinth"
 id = "image2map"
@@ -143,6 +144,7 @@ id = "ledger"
 type = "modrinth"
 id = "luckperms"
 
+# Might be removed
 [[mods]]
 type = "modrinth"
 id = "maintenancemode"
@@ -229,10 +231,6 @@ id = "compact-help-command"
 [[mods]]
 type = "modrinth"
 id = "coord-finder"
-
-[[mods]]
-type = "modrinth"
-id = "death-backup"
 
 [[mods]]
 type = "modrinth"
