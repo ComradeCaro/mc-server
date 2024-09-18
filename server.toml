@@ -165,6 +165,14 @@ id = "spark"
 type = "modrinth"
 id = "deathlog"
 
+[[mods]]
+type = "modrinth"
+id = "stackdeobf"
+
+[[mods]]
+type = "modrinth"
+id = "vanish"
+
 ## Technical/Networking
 [[mods]]
 type = "modrinth"
@@ -184,11 +192,11 @@ id = "hurricane"
 
 [[mods]]
 type = "modrinth"
-id = "stackdeobf"
+id = "bluemap"
 
 [[mods]]
 type = "modrinth"
-id = "bluemap"
+id = "viafabric"
 
 ## Compatibility
 [[mods]]
@@ -198,6 +206,19 @@ id = "servux"
 [[mods]]
 type = "modrinth"
 id = "jade"
+
+## Commands
+[[mods]]
+type = "modrinth"
+id = "compact-help-command"
+
+[[mods]]
+type = "modrinth"
+id = "coord-finder"
+
+[[mods]]
+type = "modrinth"
+id = "wits"
 
 ## Gamplay/Features
 [[mods]]
@@ -226,14 +247,6 @@ id = "anti-xray"
 
 [[mods]]
 type = "modrinth"
-id = "compact-help-command"
-
-[[mods]]
-type = "modrinth"
-id = "coord-finder"
-
-[[mods]]
-type = "modrinth"
 id = "just-mob-heads"
 
 [[mods]]
@@ -251,18 +264,6 @@ id = "no-chat-reports"
 [[mods]]
 type = "modrinth"
 id = "tabtps"
-
-[[mods]]
-type = "modrinth"
-id = "vanish"
-
-[[mods]]
-type = "modrinth"
-id = "viafabric"
-
-[[mods]]
-type = "modrinth"
-id = "wits"
 
 [[mods]]
 type = "modrinth"
