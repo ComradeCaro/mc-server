@@ -1,12 +1,12 @@
-# mc-server
+# MC Server
 
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
-This is my personal minecraft server setup made with mcman. You may use this for any purposes whatsoever.
+This is my personal minecraft server made and configured with mcman. I have a multitude of mods installed so the experience isn't vanilla but vanilla clients can still join.
 
 ## Running
 
-This is made solely for personal use. I do not offer any kind of support when setting this up and most scripts will not work without additional configuration
+This is made solely for personal use but I've decided to make it available to anyone who wants to use it. As such however I don't offer any kind of help or support when running this. If you're still interested in running it regardless of that, I would recommend learning how to use mcman.
 
 <!-- run 'mcman md' to update! -->
 
