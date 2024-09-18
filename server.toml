@@ -123,7 +123,6 @@ id = "chunky"
 type = "modrinth"
 id = "banhammer"
 
-# Might be removed
 [[mods]]
 type = "modrinth"
 id = "image2map"
@@ -143,15 +142,6 @@ id = "ledger"
 [[mods]]
 type = "modrinth"
 id = "luckperms"
-
-# Might be removed
-[[mods]]
-type = "modrinth"
-id = "maintenancemode"
-
-[[mods]]
-type = "modrinth"
-id = "helpfulcommands"
 
 [[mods]]
 type = "modrinth"
@@ -198,6 +188,10 @@ id = "bluemap"
 type = "modrinth"
 id = "viafabric"
 
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+
 ## Compatibility
 [[mods]]
 type = "modrinth"
@@ -219,6 +213,10 @@ id = "coord-finder"
 [[mods]]
 type = "modrinth"
 id = "wits"
+
+[[mods]]
+type = "modrinth"
+id = "helpfulcommands"
 
 ## Gamplay/Features
 [[mods]]
@@ -243,10 +241,6 @@ id = "leaves-be-gone"
 
 [[mods]]
 type = "modrinth"
-id = "anti-xray"
-
-[[mods]]
-type = "modrinth"
 id = "just-mob-heads"
 
 [[mods]]
@@ -259,20 +253,57 @@ id = "monsters-in-the-closet"
 
 [[mods]]
 type = "modrinth"
-id = "no-chat-reports"
-
-[[mods]]
-type = "modrinth"
 id = "tabtps"
 
 [[mods]]
 type = "modrinth"
 id = "view-distance-fix"
 
+[[mods]]
+type = "modrinth"
+id = "ante"
+
+[[mods]]
+type = "modrinth"
+id = "nowballs-freeze-mobs"
+
+[[mods]]
+type = "modrinth"
+id = "thorny-bush-protection"
+
 ## Worldgen
 [[mods]]
 type = "modrinth"
 id = "snow-under-trees-remastered"
+
+[[mods]]
+type = "modrinth"
+id = "dungeons-and-taverns"
+
+[[mods]]
+type = "modrinth"
+id = "terralith"
+
+[[mods]]
+type = "modrinth"
+id = "tectonic"
+
+[[mods]]
+type = "modrinth"
+id = "nullscape"
+
+[[mods]]
+type = "modrinth"
+id = "scorched"
+
+[[mods]]
+type = "modrinth"
+id = "hopo-better-underwater-ruins"
+
+## Anti-cheats
+[[mods]]
+type = "modrinth"
+id = "anti-xray"
 
 [variables]
 SERVER_PORT = "25565"
