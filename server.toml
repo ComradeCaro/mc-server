@@ -265,7 +265,7 @@ id = "ante"
 
 [[mods]]
 type = "modrinth"
-id = "nowballs-freeze-mobs"
+id = "snowballs-freeze-mobs"
 
 [[mods]]
 type = "modrinth"
@@ -283,6 +283,7 @@ id = "dungeons-and-taverns"
 [[mods]]
 type = "modrinth"
 id = "terralith"
+version = "rEF3UnUI"
 
 [[mods]]
 type = "modrinth"
@@ -291,6 +292,7 @@ id = "tectonic"
 [[mods]]
 type = "modrinth"
 id = "nullscape"
+version = "R6ADmT2I"
 
 [[mods]]
 type = "modrinth"
@@ -299,6 +301,14 @@ id = "scorched"
 [[mods]]
 type = "modrinth"
 id = "hopo-better-underwater-ruins"
+
+[[mods]]
+type = "modrinth"
+id = "hopo-better-ruined-portals"
+
+[[mods]]
+type = "modrinth"
+id = "sparsestructures"
 
 ## Anti-cheats
 [[mods]]
