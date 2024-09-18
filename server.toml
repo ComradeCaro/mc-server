@@ -218,6 +218,10 @@ id = "wits"
 type = "modrinth"
 id = "helpfulcommands"
 
+[[mods]]
+type = "modrinth"
+id = "slime"
+
 ## Gamplay/Features
 [[mods]]
 type = "modrinth"
@@ -309,6 +313,14 @@ id = "hopo-better-ruined-portals"
 [[mods]]
 type = "modrinth"
 id = "sparsestructures"
+
+[[mods]]
+type = "modrinth"
+id = "village-spawn-point"
+
+[[mods]]
+type = "modrinth"
+id = "biome-spawn-point"
 
 ## Anti-cheats
 [[mods]]
