@@ -163,13 +163,6 @@ id = "stackdeobf"
 type = "modrinth"
 id = "vanish"
 
-[[mods]]
-type = "ghrel"
-repo = "plan-player-analytics/Plan"
-tag = "5.6-build-2883"
-asset = "PlanFabric-${tag}.jar" 
-
-
 ## Technical/Networking
 [[mods]]
 type = "modrinth"
