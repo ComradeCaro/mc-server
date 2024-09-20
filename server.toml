@@ -114,6 +114,14 @@ id = "threadtweak"
 type = "modrinth"
 id = "vmp-fabric"
 
+[[mods]]
+type = "modrinth"
+id = "disconnect-packet-fix"
+
+[[mods]]
+type = "modrinth"
+id = "crashexploitfixer"
+
 ## Admin tools
 [[mods]]
 type = "modrinth"
