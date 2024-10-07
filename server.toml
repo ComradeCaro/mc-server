@@ -133,10 +133,6 @@ id = "banhammer"
 
 [[mods]]
 type = "modrinth"
-id = "image2map"
-
-[[mods]]
-type = "modrinth"
 id = "invview"
 
 [[mods]]
@@ -199,15 +195,6 @@ id = "viafabric"
 [[mods]]
 type = "modrinth"
 id = "no-chat-reports"
-
-## Compatibility
-[[mods]]
-type = "modrinth"
-id = "servux"
-
-[[mods]]
-type = "modrinth"
-id = "jade"
 
 ## Commands
 [[mods]]
@@ -275,14 +262,6 @@ id = "view-distance-fix"
 type = "modrinth"
 id = "ante"
 
-[[mods]]
-type = "modrinth"
-id = "snowballs-freeze-mobs"
-
-[[mods]]
-type = "modrinth"
-id = "thorny-bush-protection"
-
 ## Worldgen
 [[mods]]
 type = "modrinth"
@@ -299,20 +278,14 @@ version = "rEF3UnUI"
 
 [[mods]]
 type = "modrinth"
-id = "tectonic"
-
-[[mods]]
-type = "modrinth"
-id = "nullscape"
-version = "R6ADmT2I"
-
-[[mods]]
-type = "modrinth"
 id = "hopo-better-underwater-ruins"
 
 [[mods]]
 type = "modrinth"
 id = "hopo-better-ruined-portals"
+[[mods]]
+type = "modrinth"
+id = "hopo-better-mineshaft"
 
 [[mods]]
 type = "modrinth"
