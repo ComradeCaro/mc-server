@@ -220,6 +220,10 @@ id = "slime"
 ## Gamplay/Features
 [[mods]]
 type = "modrinth"
+id = "your-items-are-safe"
+
+[[mods]]
+type = "modrinth"
 id = "healing-campfire"
 
 [[mods]]
