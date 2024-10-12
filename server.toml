@@ -45,6 +45,10 @@ id = "owo-lib"
 type = "modrinth"
 id = "craterlib"
 
+[[mods]]
+type = "modrinth"
+id = "almanac-lib"
+
 ## Optimization/Stability
 [[mods]]
 type = "modrinth"

@@ -3,7 +3,7 @@
 # Variables
 SOURCE_DIR="/home/julian/mc-server/server"
 BACKUP_DIR="mc:backups"
-BACKUP_COUNT=4
+BACKUP_COUNT=5
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
 BACKUP_NAME="backup-$DATE"
 
