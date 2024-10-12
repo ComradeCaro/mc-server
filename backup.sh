@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-SOURCE_DIR="/home/$USER/mc-server/server"
+SOURCE_DIR="/home/julian/mc-server/server"
 BACKUP_DIR="mc:backups"
 BACKUP_COUNT=4
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
@@ -9,13 +9,12 @@ BACKUP_NAME="backup-$DATE"
 
 # Upload the folder to MEGA
 cd $SOURCE_DIR
-cd ..
 echo "Compressing"
-tar -czvf "$BACKUP_NAME.tar.gz" "world"
+sudo tar -czvf "$BACKUP_NAME.tar.gz" "world"
 echo "Transferring"
 rclone copy "$BACKUP_NAME.tar.gz" "$BACKUP_DIR/$BACKUP_NAME" -P
 echo "Removing local backup"
-rm "$BACKUP_NAME.tar.gz"
+rm -f "$BACKUP_NAME.tar.gz"
 echo "Finished"
 
 # Find and delete old backups

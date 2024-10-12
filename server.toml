@@ -122,6 +122,18 @@ id = "disconnect-packet-fix"
 type = "modrinth"
 id = "crashexploitfixer"
 
+[[mods]]
+type = "modrinth"
+id = "achievements-optimizer"
+
+[[mods]]
+type = "modrinth"
+id = "quickbench"
+
+[[mods]]
+type = "modrinth"
+id = "disable-portal-checks"
+
 ## Admin tools
 [[mods]]
 type = "modrinth"
@@ -168,6 +180,14 @@ type = "modrinth"
 id = "vanish"
 
 ## Technical/Networking
+[[mods]]
+type = "modrinth"
+id = "viabackwards"
+
+[[mods]]
+type = "modrinth"
+id = "viarewind"
+
 [[mods]]
 type = "modrinth"
 id = "floodgate"
@@ -220,15 +240,7 @@ id = "slime"
 ## Gamplay/Features
 [[mods]]
 type = "modrinth"
-id = "your-items-are-safe"
-
-[[mods]]
-type = "modrinth"
-id = "healing-campfire"
-
-[[mods]]
-type = "modrinth"
-id = "conduits-prevent-drowned"
+id = "dataloader"
 
 [[mods]]
 type = "modrinth"
