@@ -2,7 +2,7 @@
 
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
-This is my personal minecraft server made and configured with mcman. I have a multitude of mods installed so the experience isn't vanilla but vanilla clients can still join.
+This is my personal minecraft server made and configured with mcman. ~I have a multitude of mods installed so the experience isn't vanilla but vanilla clients can still join~ This is not the case as of now and this config will follow the vanilla base game a bit more closely in the future.
 
 ## Running
 
