@@ -15,7 +15,7 @@ id = "fabric-api"
 
 [[mods]]
 type = "modrinth"
-id = "colective"
+id = "collective"
 
 [[mods]]
 type = "modrinth"
