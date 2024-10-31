@@ -13,20 +13,152 @@ installer = "latest"
 type = "modrinth"
 id = "fabric-api"
 
+[[mods]]
+type = "modrinth"
+id = "colective"
+
+[[mods]]
+type = "modrinth"
+id = "almanac"
+
+[[mods]]
+type = "modrinth"
+id = "craterlib"
+
+[[mods]]
+type = "modrinth"
+id = "balm"
 
 ## Optimization/Stability
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+
+[[mods]]
+type = "modrinth"
+id = "krypton"
+
+[[mods]]
+type = "modrinth"
+id = "c2me-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "vmp-fabric"
+
+[[mods]]
+type = "modrinth"
+id = "lmd"
+
+[[mods]]
+type = "modrinth"
+id = "alternate-current"
+
+[[mods]]
+type = "modrinth"
+id = "servercore"
+
+[[mods]]
+type = "modrinth"
+id = "ksyxis"
+
+[[mods]]
+type = "modrinth"
+id = "scalablelux"
+
+[[mods]]
+type = "modrinth"
+id = "stackdeobf"
 
 ## Admin tools
+[[mods]]
+type = "modrinth"
+id = "spark"
+
+[[mods]]
+type = "modrinth"
+id = "vanish"
+
+[[mods]]
+type = "modrinth"
+id = "banhammer"
+
+[[mods]]
+type = "modrinth"
+id = "luckperms"
+
+[[mods]]
+type = "modrinth"
+id = "maintenancemode"
 
 ## Technical/Networking
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+
+[[mods]]
+type = "modrinth"
+id = "viafabric"
+
+[[mods]]
+type = "modrinth"
+id = "viaversion"
+
+[[mods]]
+type = "modrinth"
+id = "viabackwards"
+
+[[mods]]
+type = "modrinth"
+id = "bluemap"
+
+[[mods]]
+type = "modrinth"
+id = "sdlink"
 
 ## Commands
+[[mods]]
+type = "modrinth"
+id = "wits"
+
+[[mods]]
+type = "modrinth"
+id = "slime"
+
+[[mods]]
+type = "modrinth"
+id = "coord-finder"
 
 ## Gamplay/Features
+[[mods]]
+type = "modrinth"
+id = "netherportalfix"
+
+[[mods]]
+type = "modrinth"
+id = "just-mob-heads"
+
+[[mods]]
+type = "modrinth"
+id = "just-player-heads"
+
+[[mods]]
+type = "modrinth"
+id = "geophilic"
+
+[[mods]]
+type = "modrinth"
+id = "geophilic"
 
 ## Worldgen
+[[mods]]
+type = "modrinth"
+id = "geophilic"
 
 ## Anti-cheats
+[[mods]]
+type = "modrinth"
+id = "anti-xray"
 
 [variables]
 SERVER_PORT = "25565"
